@@ -1,5 +1,5 @@
 # gastronomia
-APP de Registro de restaurantes para llevar el control de restaurantes de la región
+APP de Registro de restaurantes para llevar el control de restaurantes de la región de piura de la municipalidad de castilla
 
 #Usuario:root@adminstrador.com
 #Constraseña: 1234
